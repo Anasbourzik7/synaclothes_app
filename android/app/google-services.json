@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "1037874011051",
+    "firebase_url": "https://clothing-a-default-rtdb.firebaseio.com",
+    "project_id": "clothing-a",
+    "storage_bucket": "clothing-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:3dbd8c8de004fffaa850ee",
+        "android_client_info": {
+          "package_name": "com.bourzik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:633d91129d734102a850ee",
+        "android_client_info": {
+          "package_name": "com.bourzik.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:9cd657b51a5fce81a850ee",
+        "android_client_info": {
+          "package_name": "com.bourzik.syna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:103b0923a8792458a850ee",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:61bf5efa313a980ea850ee",
+        "android_client_info": {
+          "package_name": "com.example.clothing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037874011051:android:b190cd36958fd04fa850ee",
+        "android_client_info": {
+          "package_name": "com.example.clothing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuStSdKh-usT95ghaHTAbbxzkR8oU7Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
