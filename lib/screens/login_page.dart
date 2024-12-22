@@ -101,7 +101,7 @@ class _LoginPageState extends State<LoginPage> {
               TextFormField(
                 controller: _emailController, // Contrôleur pour l'email
                 decoration: const InputDecoration(
-                  labelText: 'Email', // Label du champ
+                  labelText: 'Login', // Label du champ
                   border: OutlineInputBorder(), // Bordure du champ
                 ),
                 validator: (value) { // Validation de l'email
@@ -118,12 +118,12 @@ class _LoginPageState extends State<LoginPage> {
                 controller: _passwordController, // Contrôleur pour le mot de passe
                 obscureText: true, // Masquer le mot de passe
                 decoration: const InputDecoration(
-                  labelText: 'Mot de passe', // Label du champ
+                  labelText: 'Password', // Label du mdp
                   border: OutlineInputBorder(), // Bordure du champ
                 ),
                 validator: (value) { // Validation du mot de passe
                   if (value == null || value.isEmpty) {
-                    return 'Veuillez entrer votre mot de passe'; // Message d'erreur si vide
+                    return 'Veuillez entrer votre Password'; // Message d'erreur si vide
                   }
                   return null;
                 },
