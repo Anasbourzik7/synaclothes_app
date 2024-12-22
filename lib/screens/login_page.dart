@@ -113,7 +113,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
 
               const SizedBox(height: 16), // Espacement entre les champs
-              // Champ pour le mot de passe
+              // Champ pour le mdp
               TextFormField(
                 controller: _passwordController, // Contrôleur pour le mot de passe
                 obscureText: true, // Masquer le mot de passe
